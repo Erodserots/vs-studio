@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.youtube{ 
+    background-color: #ffffff;
+    color: black;
+    display: flex; 
+    justify-content: space-around 5;
+    align-items: center;
+    padding: 24px ;
+}
+
+.youtube-logo{
+    width: 10%
+
+}
+
+.youtube-lista-item{
+    display: inline-block;
+    margin: 15px;
+    font-size: 20px;
+}
